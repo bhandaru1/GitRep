@@ -1,0 +1,7 @@
+21:26:54.292 [main] INFO  resources.BaseInitBrowser - Navigated to Home page
+21:26:57.153 [main] INFO  resources.BaseInitBrowser - Navigated to Home page
+21:27:00.621 [main] INFO  resources.BaseInitBrowser - Navigated to Home page
+21:27:02.158 [main] INFO  resources.BaseInitBrowser - Navigated to Home page
+21:27:14.506 [main] INFO  resources.BaseInitBrowser - Driver is initialized
+21:27:14.600 [main] INFO  resources.BaseInitBrowser - Sucessfully validated Text Message
+21:27:20.276 [main] INFO  resources.BaseInitBrowser - Driver is initialized
